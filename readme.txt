@@ -2,7 +2,7 @@
 Contributors: flector
 Tags: antispam, anti-spam, spam, comments, comment, trackback, email, notifier, akismet, notification
 Requires at least: 3.0
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: 1.00
 
 The plugin sends an email message when a comment goes to the spam folder.
