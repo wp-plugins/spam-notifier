@@ -17,12 +17,6 @@ We don’t recommend installing this plugin if you use [Akismet](http://wordpres
 
 If you liked my plugin, please `rate` it.
 
-You may also like my other plugins:
-
-- [Cool Tag Cloud](http://wordpress.org/plugins/cool-tag-cloud/) - A simple, yet very beautiful tag cloud.
-- [BBSpoiler](http://wordpress.org/plugins/bbspoiler/) - This plugin allows you to hide text under the tags [spoiler]your text[/spoiler]. 
-- [Restore Columns](http://wordpress.org/plugins/restore-columns/) - The plugin restores the possibility to select the number of columns displayed on the dashboard. 
-- [Hide My Dates](http://wordpress.org/plugins/hide-my-dates/) - The plugin hides post and comment publishing dates from Google. 
 
 == Installation ==
 
