@@ -1,5 +1,6 @@
 === Spam Notifier ===
 Contributors: flector
+Donate link: http://goo.gl/CcxWYg
 Tags: antispam, anti-spam, spam, comments, comment, trackback, email, notifier, akismet, notification
 Requires at least: 3.0
 Tested up to: 4.0
@@ -14,6 +15,14 @@ The plugin sends you an email each time a comment goes to the spam folder. The p
 
 We don’t recommend installing this plugin if you use [Akismet](http://wordpress.org/plugins/akismet/) only – you’ll be drowned in hundreds of emails every day.
 
+If you liked my plugin, please `rate` it.
+
+You may also like my other plugins:
+
+- [Cool Tag Cloud](http://wordpress.org/plugins/cool-tag-cloud/) - A simple, yet very beautiful tag cloud.
+- [BBSpoiler](http://wordpress.org/plugins/bbspoiler/) - This plugin allows you to hide text under the tags [spoiler]your text[/spoiler]. 
+- [Restore Columns](http://wordpress.org/plugins/restore-columns/) - The plugin restores the possibility to select the number of columns displayed on the dashboard. 
+- [Hide My Dates](http://wordpress.org/plugins/hide-my-dates/) - The plugin hides post and comment publishing dates from Google. 
 
 == Installation ==
 
