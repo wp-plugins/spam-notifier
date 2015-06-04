@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Spam Notifier
-Plugin URI: http://wordpress.org/plugins/spam-notifier/
+Plugin URI: https://wordpress.org/plugins/spam-notifier/
 Description: The plugin sends an email message when a comment goes to the spam folder.
 Version: 1.00
 Author: Flector
-Author URI: http://wordpress.org/plugins/spam-notifier/
+Author URI: https://profiles.wordpress.org/flector#content-plugins
 */ 
 
 $pluginpage = $_SERVER["REQUEST_URI"];
